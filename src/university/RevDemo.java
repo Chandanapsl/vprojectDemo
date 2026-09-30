@@ -9,7 +9,7 @@ public class RevDemo {
      
     
      String str=s.nextLine();
-    System.out.println("enter the number");
+    System.out.println("enter the number please:");
      int num=s.nextInt();
         int original = num;
         int reverse = 0;

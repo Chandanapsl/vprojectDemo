@@ -9,7 +9,6 @@ public class App {
        b.setNo(567);
         System.out.println("This is student number "+ s.getNo());
         System.out.println("This is book number "+ b.getNo());
-        System.out.println("This is student number "+ s.getNo());
-        System.out.println("This is book number "+ b.getNo());
+       
     }
 }
