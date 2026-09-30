@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class RevDemo {
     public static void main(String[] args) {
-         System.out.println("enter the string");
+         System.out.println("enter the strings");
      Scanner s=new Scanner(System.in);
      
     
